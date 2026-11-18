@@ -1511,6 +1511,7 @@ GenAI • RAG • LLMs • Agentic AI • Python • Machine Learning • MLOps
 GitHub:
 
 [github.com/Rogerio5](https://github.com/Rogerio5)
+[github.com/Ronaldo94](https://github.com/Ronaldo94)
 
 ---
 
